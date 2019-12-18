@@ -1,0 +1,29 @@
+{
+  "name": "open-in-external-editor",
+  "main": "./lib/open-in-editor",
+  "version": "0.0.0",
+  "description": "An inkdrop plugin to open notes in an external editor",
+  "keywords": [
+    "inkdrop",
+    "plugin",
+    "external",
+    "editor",
+    "notes"
+  ],
+  "repository": "https://github.com/libeanim/inkdrop-open-in-external-editor.git",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {
+    "tmp": "^0.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.3",
+    "prettier": "^1.18.2"
+  }
+}
