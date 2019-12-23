@@ -16,6 +16,7 @@
     "inkdrop": "^4.x"
   },
   "dependencies": {
+    "core-js": "^2.6.11",
     "tmp": "^0.1.0"
   },
   "devDependencies": {
