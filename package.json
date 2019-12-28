@@ -1,7 +1,7 @@
 {
   "name": "open-in-external-editor",
   "main": "./lib/open-in-editor",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "An inkdrop plugin to open notes in an external editor",
   "keywords": [
     "inkdrop",
